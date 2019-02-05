@@ -1,0 +1,21 @@
+program GoneBananas;
+
+VAR
+  { Input of Bananas }
+  input: longint;
+  Cluster2, 
+begin
+ { Starting Function }
+  writeln('Press any Key to Start');
+    readln;
+  
+  
+  { Input the Amount of Banansas }
+  writeln('Please INPUT the Number of Fruit!');
+  
+  
+  { Cluster 2 Output }
+ { Press any to Exit Prompt }
+    writeln('Press ANY Key to Quit!');
+    readln;
+end.
